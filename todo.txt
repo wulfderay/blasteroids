@@ -1,0 +1,10 @@
+TODO:
+
+ - spawn asteroids at edges - done (well, spawned with a min radius from player)
+ - asteroids in linked list - working
+ - timer-based constant framerate - fps counter set up. Needs more work to alleviate slowdown. Threading?
+ - single triangle rendering function
+ - generate asteroids as triangle strips
+ - proper title screen
+ - high score saving to mem card.
+ - bullets as linked lists.
